@@ -1,6 +1,14 @@
 # TestingAplicaciones--Inmortality--TPO
 
-Equipo: Inmortality
-Integrantes: Joaquin Valentini 
-             Ramiro Manuel Bromberg Villalba
-             Nicolas Amarilla
+
+
+
+| Integrante | Nombre y Apellido |
+|-----------:|-------------------|
+|     1      | Joaquin Valentini |
+|     2      |                   |
+|     3      |                   |
+| Equipo     | Inmortality       |
+
+
+
