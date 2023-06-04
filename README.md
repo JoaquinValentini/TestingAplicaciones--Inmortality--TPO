@@ -1,14 +1,11 @@
 # TestingAplicaciones--Inmortality--TPO
 
+## Nombre del equipo
+- "Inmortality"
 
-
-
-| Integrante | Nombre y Apellido |
-|-----------:|-------------------|
-|     1      | Joaquin Valentini |
-|     2      |                   |
-|     3      |                   |
-| Equipo     | Inmortality       |
+## Integrantes
+- "Valentini Joaquin integrante 1"
+    
 
 
 
