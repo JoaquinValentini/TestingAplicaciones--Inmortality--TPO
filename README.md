@@ -8,6 +8,7 @@
 - "Ramiro Manuel Villalba Bromberg Integrante 2"
 - "Nicolas Amarilla                integrante 3"
 - "Augusto Fernandez Rousseaux"    Integrante 4"
+- "Maximo Vendramini               Integrante 5"
 
 -Evidencia:
 https://docs.google.com/document/d/1Wpw-Gd7VXYyoOmQdkp3kqLl8W_58vz-Ri7NX0iRgi_E/edit?usp=sharing
